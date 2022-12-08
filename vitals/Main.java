@@ -1,7 +1,7 @@
 package vitals;
 
 import vitals.BatteryComponents.types.LiionBattery;
-import vitals.BatteryComponents.utils.BatteryHealthCheckUtility;
+import vitals.BatteryComponents.utility.BatteryHealthCheckUtility;
 
 public class Main {
    
